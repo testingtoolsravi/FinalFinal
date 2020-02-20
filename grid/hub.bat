@@ -1,0 +1,1 @@
+java -jar %~dp0selenium-server-standalone-3.141.59.jar -role hub -maxSession 1 -port 2426
